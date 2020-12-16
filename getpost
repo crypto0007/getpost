@@ -1,0 +1,22 @@
+[
+        {
+            "name":"Ishaan",
+            "email":"ispa198@gmail.com",
+            "job":"CEO"
+        },
+        {
+            "name":"Deep",
+            "email":"deepparekh01@gmail.com",
+            "job":"student"
+        },
+        {
+            "name":"Redd",
+            "email":"imdanger@gmail.com",
+            "job":"FBI Consultant"
+        },
+        {
+            "name":"keen",
+            "email":"agentKenn@gmail.com",
+            "job":"FBI"
+        }
+ ]
